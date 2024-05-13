@@ -1,2 +1,2 @@
-![db](tododb.JPG)
-![react](frontend.JPG)
+![db](tododb.PNG)
+![react](frontend.PNG)
